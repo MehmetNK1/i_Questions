@@ -1,0 +1,25 @@
+package interviewQuestions7;
+
+import java.util.Scanner;
+
+public class Q02_TreeShape {
+    // Dikey olarak bolunen bir agac sekli ciziniz.. agacin tac uzunlugunu kullanicidan aliniz..
+    // Not :govde sabit sayi olsun
+    /* tac uzunlugu -> 6 iken
+
+    ^
+    ^^
+    ^^^
+    ^^^^
+    ^^^^^
+    ^^^^^^
+    |||
+    |||
+    |||
+    |||
+    |||
+     */
+
+
+
+}
